@@ -1,9 +1,6 @@
-By the end of this project we would have achieved the following outcomes:
-
-1. A comprehensive understanding of the theoretical foundations, architecture, and real-world ap-
-plications of KANs.
-
-2. A critical analysis of the strengths, weaknesses, and potential improvements in the design and
-implementation of KANs.
-3. Hands-on experience in developing, simulating, and optimizing KANs using libraries such as
-Pytorch.
+We have achieved the following outcomes:
+- Explored a novel neural network design inspired by the Kolmogorov-Arnold Representation Theorem, replacing traditional fixed activation functions with learnable edge functions.
+- Designed and implemented CNN-KAN models using the pyKAN library, incorporating advanced B-Spline-based activation functions for improved interpretability and performance.
+- Conducted a comprehensive case study applying CNN-KAN on multiple datasets from the MedMNIST suite, including PathMNIST, showcasing the network’s capability in medical image classification tasks.
+- Compared CNN-KAN with Multi-Layer Perceptrons (MLPs), identifying significant improvements in model interpretability with competitive accuracy and parameter efficiency.
+- Evaluated model performance using F1-score, AUC-ROC, and Accuracy, demonstrating potential in lightweight and accessible biomedical ML applications.
